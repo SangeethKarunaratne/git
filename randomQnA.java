@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class randomQnA {
 
-    String numArr[] = {"7", "2", "3", "4", "5", "6"};
+    String numArr[] = {"5", "2", "3", "4", "5", "6"};
     String symbolArr[] = {"+", "-", "/", "*"};
 
     ArrayList<String> qArr = new ArrayList<String>();
